@@ -1,8 +1,0 @@
-#!C:\Haswin info\3rd year Project\Emotion detection project\audio_libs\scripts\python.exe
-# -*- coding: UTF-8 -*-
-from __future__ import print_function, division, absolute_import
-
-from numba.misc.numba_entry import main
-
-if __name__ == "__main__":
-    main()
