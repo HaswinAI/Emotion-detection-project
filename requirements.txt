@@ -1,8 +1,9 @@
-streamlit
-sounddevice
-librosa
-numpy
-scipy
-matplotlib
-joblib
-scikit-learn
+streamlit==1.35.0
+numpy==1.26.4
+scikit-learn==1.4.2
+librosa==0.10.1
+soundfile==0.12.1
+matplotlib==3.8.4
+firebase-admin==6.5.0
+python-dotenv==1.0.1
+pydub==0.25.1
