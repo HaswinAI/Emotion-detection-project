@@ -37,20 +37,19 @@ Edit
 
 ### 1. Clone the repo
 
-
-git clone https://github.com/<your-username>/emotion-detection-voice.git
+"""bash
+git clone https://github.com/HaswinAI/emotion-detection-voice.git
 cd emotion-detection-voice
+
 2. Create virtual environment
-bash
-Copy
-Edit
+
 python -m venv audio_libs
 audio_libs\Scripts\activate   # On Windows
+
 3. Install dependencies
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
+
 4. Add Firebase Key (optional)
 Go to Firebase Console → Project Settings → Service Accounts
 
@@ -61,10 +60,9 @@ Save it as firebase_key.json in the project folder
 Update app.py with your database URL
 
 5. Run the Streamlit App
-bash
-Copy
-Edit
+
 streamlit run app.py
+'''
 🧠 Supported Emotions
 Neutral
 
