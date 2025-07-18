@@ -37,7 +37,7 @@ Edit
 
 ### 1. Clone the repo
 
-```bash
+
 git clone https://github.com/<your-username>/emotion-detection-voice.git
 cd emotion-detection-voice
 2. Create virtual environment
@@ -145,16 +145,3 @@ Copy
 Edit
 
 ---
-
-Would you like me to:
-- Add this README directly to your project folder?
-- Provide a better name/logo or badge at the top?
-Let me know and I’ll help personalize it!
-
-
-
-
-
-
-
-Ask ChatGPT
