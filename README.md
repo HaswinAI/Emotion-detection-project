@@ -27,9 +27,7 @@ emotion-detection-voice/
 ├── README.md
 └── audio_files/ # Folder to store recorded audio
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -37,7 +35,7 @@ Edit
 
 ### 1. Clone the repo
 
-"""bash
+
 git clone https://github.com/HaswinAI/emotion-detection-voice.git
 cd emotion-detection-voice
 
@@ -131,7 +129,7 @@ Recording	Emotion Prediction
 🌐 Deploy on Streamlit Cloud
 
 🧑‍💻 Author
-Haswin Deepak
+Haswin
 BTech AI-ML, Panimalar Engineering College
 🔗 LinkedIn | 🌐 Portfolio | 💡 Passionate about AI & Audio Intelligence
 
